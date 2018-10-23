@@ -1,3 +1,3 @@
 # API
-API between CRMs
-This progect connects different CRMs between eath other.
+API between CRM. 
+This project halps to link various CRMs to each other.
